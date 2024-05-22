@@ -77,7 +77,7 @@
   font-weight: 900;
   src: local('Source Sans Pro Black'), local('SourceSansPro-Black'), url(../fonts/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwmxduz8A.woff2) format('woff2');
   unicode-range: U+1F00-1FFF;
-}
+} 
 /* greek */
 @font-face {
   font-family: 'Source Sans Pro';
